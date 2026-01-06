@@ -1,3 +1,3 @@
-Hello everyone. This line is from MAIN branch
+Hello everyone. Combined content after merge
 This is demo project
-Learning merge
+Working on feature1
