@@ -1,3 +1,3 @@
-Hello everyone. Combined content after merge
+Hello everybody. Combined content after merge
 This is demo project
 Working on feature1
